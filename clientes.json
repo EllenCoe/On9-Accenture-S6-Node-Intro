@@ -1,0 +1,28 @@
+[
+  {
+    "id": "khjdkfhj",
+    "nomeCliente": "Andreia",
+    "cpfNota": "91831902-14981",
+    "valorTotalCompra": 300.05,
+    "quantidadeItens": 1,
+    "informacoesCompra": {
+      "nome": "TENIS-X",
+      "valor": 300.05,
+      "modeloTenis": "Conforto"
+    },
+    "colaboradora": false
+  },
+  {
+    "id": "khjdkfhj",
+    "nomeCliente": "Ellen Coelho",
+    "cpfNota": "988654378",
+    "valorTotalCompra": 600.1,
+    "quantidadeItens": 2,
+    "informacoesCompra": {
+      "nome": "TENIS-X",
+      "valor": 300.05,
+      "modeloTenis": "Conforto"
+    },
+    "colaboradora": false
+  }
+]

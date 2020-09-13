@@ -1,0 +1,13 @@
+{
+  "nomeCliente": "Andreia",
+  "cpfNota": "91831902-14981",
+  "valorTotalCompra": 300.05,
+  "quantidadeItens": 1,
+  "desconto": true,
+  "informacoesCompra": {
+    "nome": "TENIS-X",
+    "valor": 300.05,
+    "modeloTenis": "Conforto"
+  },
+  "colaboradora": false
+}

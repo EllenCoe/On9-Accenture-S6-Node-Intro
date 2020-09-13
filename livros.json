@@ -1,0 +1,47 @@
+[
+  {
+    "id": "asdfghjkl",
+    "isbn": "854410701X",
+    "nomeLivro": "A bruxa não vai para a fogueira neste livro",
+    "editora": "Leya",
+    "autora": "Amanda Lovelace",
+    "anoPublicacao": 2018,
+    "descricao": "Um relato poético, inspirador e contundente da mulher no século XXI Aqueles que consideram “bruxa” um xingamento não poderiam estar mais enganados: bruxas são mulheres capazes de incendiar o mundo ao seu redor."
+  },
+  {
+    "id": "lkjhgfdsa",
+    "isbn": "B07D92WXW3",
+    "nomeLivro": "Minha história",
+    "editora": "Objetiva",
+    "autora": "Michelle Obama",
+    "anoPublicacao": 2018,
+    "descricao": "A ex-primeira-dama dos Estados Unidos deixou a terceira pessoa de lado e contou com suas próprias palavras como foi viver durante oito anos sob os holofotes midiáticos, durante o governo de Barack Obama.Com uma narrativa surpreendente, Michelle Obama traz à tona as dificuldades de ser empresária, educar duas meninas e tudo isso em um país com fortes raízes racistas."
+  },
+  {
+    "id": "qwerty",
+    "isbn": "858057658X",
+    "nomeLivro": "Objetos Cortantes",
+    "editora": "Intrínseca",
+    "autora": "Gillian Flynn",
+    "anoPublicacao": 2018,
+    "descricao": "A trama narra a volta da repórter Camille Praker a sua cidade natal, a fim de investigar o assassinato de uma menina e um desaparecimento de outra. Porém, para isso, ela precisa conviver com a família que, pela distância, parece ser mais um bando de desconhecidos do que mãe, padrasto e meia-irmã. Com o decorrer da investigação, ela acaba descobrindo mais segredos perturbadores do que ela podia imaginar."
+  },
+  {
+    "id": "ytrewq",
+    "isbn": "8501044458",
+    "nomeLivro": "O diário de Anne Frank",
+    "editora": "Record",
+    "autora": "Anne Frank ",
+    "anoPublicacao": 1995,
+    "descricao": "O diário de Anne Frank, o depoimento da pequena Anne, morta pelos nazistas após passar anos escondida no sótão de uma casa em Amsterdã, ainda hoje emociona leitores no mundo inteiro. Suas anotações narram os sentimentos, os medos e as pequenas alegrias de uma menina judia que, como sua família, lutou em vão para sobreviver ao Holocausto.Lançado em 1947."
+  },
+  {
+    "id": "qfrfjhkb",
+    "isbn": "8535923438",
+    "nomeLivro": "Eu sou Malala: A história da garota que defendeu o direito à educação e foi baleada pelo Talibã ",
+    "editora": "Companhia das Letra",
+    "autora": "Malala Yousafza e  Christina Lambi",
+    "anoPublicacao": 2013,
+    "descricao": "  Eu sou Malala é a história de uma família exilada pelo terrorismo global, da luta pelo direito à educação feminina e dos obstáculos à valorização da mulher em uma sociedade que valoriza filhos homens. "
+  }
+]
